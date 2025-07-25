@@ -10,27 +10,67 @@ This project processes PDF files to extract document titles and a structured out
 
 ## Directory Structure
 - `src/` - Contains all modularized Python code
-- `PDFs/` - Input directory for PDF files
-- `PDFs_output_new/` - Output directory for JSON results
+- `input/` - Input directory for PDF files
+- `output/` - Output directory for JSON results
 - `main.py` - (Legacy) Monolithic script (now modularized)
 
 ## Setup
+
+### Local Development
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-2. Place your PDF files in the `PDFs/` directory.
-3. Run the main script:
+2. Place your PDF files in the `input/` directory.
+3. Run the local script:
    ```bash
-   python -m src.main
+   python local_entrypoint.py
+   ```
+
+### Docker Deployment
+1. Build the Docker image:
+   ```bash
+   docker build --platform linux/amd64 -t mysolutionname:somerandomidentifier .
+   ```
+
+2. Run the container:
+   ```bash
+   docker run --rm \
+     -v "$(pwd -W)/input:/app/input" \
+     -v "$(pwd -W)/output:/app/output" \
+     --network none \
+     mysolutionname:somerandomidentifier
    ```
 
 ## Requirements
 - Python 3.7+
 - See `requirements.txt` for dependencies
+- Docker (for containerized deployment)
 
 ## Usage
-- Outputs JSON files for each PDF in `PDFs_output_new/`.
+- Outputs JSON files for each PDF in `output/` directory.
+- Each JSON file contains:
+  - `title`: Document title
+  - `outline`: Array of headings with level (H1, H2, H3), text, and page number
+
+## Output Format
+```json
+{
+    "title": "Document Title",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Main Heading",
+            "page": 1
+        },
+        {
+            "level": "H2", 
+            "text": "Subheading",
+            "page": 2
+        }
+    ]
+}
+```
 
 ## License
 MIT License 
