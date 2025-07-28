@@ -6,6 +6,7 @@ This project processes PDF files to extract document titles and a structured out
 - Detects headings using font size, boldness, alignment, and content patterns
 - Handles uniform and non-uniform font documents
 - Removes duplicate and invalid headings
+- **Multilingual Support**: Processes PDFs in multiple languages including English, Spanish, French, German, Italian, Portuguese, and more
 - Outputs a clean JSON outline per PDF
 
 ## Directory Structure

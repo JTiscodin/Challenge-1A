@@ -1,0 +1,50 @@
+{
+    "title": "Archived NIST Technical Series Publication",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Guide to Enterprise Telework and Remote Access Security",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Recommendations of the National Institute of Standards and Technology",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Archived NIST Technical Series Publication",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "M. Souppaya; K. Scarfone",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Karen Scarfone Paul Hoffman Murugiah Souppaya",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Guide to Enterprise Telework and Remote Access Security Recommendations of the National Institute of Standards and Technology Karen Scarfone Paul Hoffman Murugiah Souppaya",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "C  O  M  P  U  T  E  R",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "DMZ DNS DSL FIPS FISMA HTTP HTTPS IP ISP IT ITL MITM MPLS NAC NAT NIST OMB OS PC PDA PII PPP SP SSH SSL TLS URL USB VM VPN WPAN",
+            "page": 45
+        },
+        {
+            "level": "H3",
+            "text": "URL",
+            "page": 46
+        }
+    ]
+}

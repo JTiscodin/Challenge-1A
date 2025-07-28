@@ -1,0 +1,250 @@
+{
+    "title": "1",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Software Life Cycle Models",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Build & Fix Model",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "Waterfall Model",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "Incremental Process Models",
+            "page": 9
+        },
+        {
+            "level": "H1",
+            "text": "Iterative Enhancement Model",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "The Rapid Application Development (RAD) Model",
+            "page": 12
+        },
+        {
+            "level": "H1",
+            "text": "Evolutionary Process Models",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "Prototyping Model",
+            "page": 17
+        },
+        {
+            "level": "H1",
+            "text": "Spiral Model",
+            "page": 19
+        },
+        {
+            "level": "H1",
+            "text": "The Unified Process",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "Phases of the Unified Process",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "Initial development & Evolution Cycles",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "Iterations & Workflow of Unified Process",
+            "page": 27
+        },
+        {
+            "level": "H1",
+            "text": "Inception Phase",
+            "page": 28
+        },
+        {
+            "level": "H1",
+            "text": "Outcomes of Inception Phase",
+            "page": 29
+        },
+        {
+            "level": "H1",
+            "text": "Elaboration Phase",
+            "page": 30
+        },
+        {
+            "level": "H1",
+            "text": "Outcomes of Elaboration Phase",
+            "page": 31
+        },
+        {
+            "level": "H1",
+            "text": "Construction Phase",
+            "page": 32
+        },
+        {
+            "level": "H1",
+            "text": "Outcomes of Construction Phase",
+            "page": 33
+        },
+        {
+            "level": "H1",
+            "text": "Transition Phase",
+            "page": 34
+        },
+        {
+            "level": "H1",
+            "text": "Outcomes of Transition Phase",
+            "page": 35
+        },
+        {
+            "level": "H1",
+            "text": "Selection of a Life Cycle Model",
+            "page": 36
+        },
+        {
+            "level": "H1",
+            "text": "Based On Characteristics Of Requirements",
+            "page": 37
+        },
+        {
+            "level": "H1",
+            "text": "Based On Status Of Development Team",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "Based On User’s Participation",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "Based On User",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "Based On Type Of Project With Associated Risk",
+            "page": 40
+        },
+        {
+            "level": "H1",
+            "text": "Multiple Choice Questions",
+            "page": 41
+        },
+        {
+            "level": "H2",
+            "text": "iii. A working version of the system is not seen until late in",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "iv. It does not scale up well to large projects.",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "possible and prepare a SRS document.",
+            "page": 10
+        },
+        {
+            "level": "H2",
+            "text": "Barry Boehm recognized this and tired to incorporate the “project",
+            "page": 19
+        },
+        {
+            "level": "H2",
+            "text": "Risk Analysis:",
+            "page": 21
+        },
+        {
+            "level": "H2",
+            "text": "Maintained and enhanced by Rational Software Corporation and",
+            "page": 23
+        },
+        {
+            "level": "H2",
+            "text": "thus referred to as Rational Unified Process (RUP).",
+            "page": 23
+        },
+        {
+            "level": "H2",
+            "text": "Evolution Cycle",
+            "page": 26
+        },
+        {
+            "level": "H2",
+            "text": "Note: Select most appropriate answer of the following questions:",
+            "page": 41
+        },
+        {
+            "level": "H2",
+            "text": "2.5  SDLC stands for",
+            "page": 41
+        },
+        {
+            "level": "H2",
+            "text": "2.10 RAD model was proposed by",
+            "page": 42
+        },
+        {
+            "level": "H2",
+            "text": "(a) Lucent Technologies",
+            "page": 42
+        },
+        {
+            "level": "H2",
+            "text": "2.9  RAD stands for",
+            "page": 42
+        },
+        {
+            "level": "H2",
+            "text": "(c) IBM",
+            "page": 42
+        },
+        {
+            "level": "H2",
+            "text": "(d) RAD model",
+            "page": 43
+        },
+        {
+            "level": "H2",
+            "text": "SDLC",
+            "page": 44
+        },
+        {
+            "level": "H2",
+            "text": "(d) J.Rumbaugh",
+            "page": 45
+        },
+        {
+            "level": "H2",
+            "text": "(b) G.Booch",
+            "page": 45
+        },
+        {
+            "level": "H2",
+            "text": "(a) I.Jacobson",
+            "page": 45
+        },
+        {
+            "level": "H2",
+            "text": "(c) B.Boehm",
+            "page": 45
+        },
+        {
+            "level": "H2",
+            "text": "2.14 Describe the rapid application development (RAD) model.Discuss each",
+            "page": 47
+        }
+    ]
+}
